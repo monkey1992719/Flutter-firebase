@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "298280397060",
+    "firebase_url": "https://photo-anywhere.firebaseio.com",
+    "project_id": "photo-anywhere",
+    "storage_bucket": "photo-anywhere.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298280397060:android:8fb4a072b70034a50dc851",
+        "android_client_info": {
+          "package_name": "com.freelancer.photo_anywhere"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298280397060-8marvltifpmfe88saccooif6ng0hjjck.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEzw_jpIK_7cqsKR_-wFssOt6IXLapDrw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298280397060-8marvltifpmfe88saccooif6ng0hjjck.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
